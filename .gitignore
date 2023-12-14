@@ -1,0 +1,14 @@
+# Dependency directories
+node_modules/
+
+# Environment files
+.env
+.env.local
+
+# Cache files
+.cache/
+.eslintcache
+
+# Build output
+dist/
+build/
